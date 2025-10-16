@@ -1,33 +1,19 @@
 {
-    "title": "",
-    "slug": "",
+    "title": "Atomic Learning: Sequencing",
+    "slug": "atomic-learning-sequencing",
     "authors": [
-        "",
-        ""
+        "chris-cooling"
     ],
     "tags": [
-        "",
-        ""
+        "atomic-learning"
     ],
-    "duration": 0,
+    "duration": 5,
     "prerequisites": [
         {
-            "slug": "",
-            "description": ""
-        },
-        {
-            "slug": "",
-            "description": ""
+            "slug": "atomic-learning-sequencing",
+            "description": "Covers the basic concept of the Atomic Learning platform"
         }
     ],
     "related": [
-        {
-            "slug": "",
-            "description": ""
-        },
-        {
-            "slug": "",
-            "description": ""
-        }
     ]
 }
