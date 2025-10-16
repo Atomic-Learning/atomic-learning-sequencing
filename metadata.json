@@ -10,7 +10,7 @@
     "duration": 5,
     "prerequisites": [
         {
-            "slug": "atomic-learning-sequencing",
+            "slug": "atomic-learning-introduction",
             "description": "Covers the basic concept of the Atomic Learning platform"
         }
     ],
