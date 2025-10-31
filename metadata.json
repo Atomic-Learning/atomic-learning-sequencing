@@ -9,14 +9,8 @@
     ],
     "duration": 4,
     "prerequisites": [
-        {
-            "slug": "atomic-learning-introduction",
-            "description": "Covers the basic concept of the Atomic Learning platform."
-        },
-        {
-            "slug": "atomic-learning-content-page-types",
-            "description": "Describes which types of content can be used in the Atomic Learning platform."
-        }
+        "atomic-learning-introduction",
+        "atomic-learning-content-page-types"
     ],
     "related": [
     ]
