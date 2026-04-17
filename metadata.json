@@ -1,6 +1,7 @@
 {
     "title": "Atomic Learning: Sequencing",
     "slug": "atomic-learning-sequencing",
+    "description": "A guide of how to sequence content in the Atomic Learning platform.",
     "authors": [
         "chris-cooling"
     ],
@@ -9,10 +10,8 @@
     ],
     "duration": 5,
     "prerequisites": [
-        {
-            "slug": "atomic-learning-introduction",
-            "description": "Covers the basic concept of the Atomic Learning platform"
-        }
+        "atomic-learning-introduction",
+        "atomic-learning-content-page-types"
     ],
     "related": [
     ]
